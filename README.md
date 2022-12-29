@@ -1,16 +1,34 @@
-### Hi there 👋
+# About me
 
-<!--
-**hardBSDk/hardBSDk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Open source activist and systems researcher focused on simplicity and usability, I try to contribute to open source projects in the way I can while research alternatives for proprietary solutions.
 
-Here are some ideas to get you started:
+## My knowledge
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Computer Science
+- Systems Enginnering
+- Emulation
+- Networking
+- Modding
+
+## Unrelated knowledge
+
+- Politics
+- Economy
+- Math
+- Enginnering
+- History
+- Physics
+- Chemistry
+
+## Musical taste
+
+- Classical Music
+- Dubstep
+- Soft Rock
+- Freestyle
+
+## History
+
+I met Linux in school during computing classes, we played Tux Math on Linux Mint, in 2012 I installed Debian for the first time in hope to recover my Windows 7 password (I remembered it after Debian install), later in 2013 I tested Ubuntu but dropped due to bad Wine compatibility with games, then in 2015 I came back to Ubuntu as my dual boot system with Windows 8.1, then I tested Solus, Fedora, FreeBSD Void Linux, ReactOS, Haiku and others.
+
+After 2018, Linux bacame my main system.

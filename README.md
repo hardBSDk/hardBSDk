@@ -6,6 +6,7 @@ Open source activist and systems researcher focused on simplicity and usability,
 
 - [Based Software](https://github.com/hardBSDk/based_software) - My best software recommendations.
 - [Based Commands](https://github.com/hardBSDk/based_commands) - Important Unix/Linux commands to fix common problems.
+- [Based Scripts](https://github.com/hardBSDk/based_scripts) - My Unix scripts.
 - [Onion RPG](https://github.com/hardBSDk/onion_edge) - 3D RTS/RPG focused in realism and simplicity.
 
 ## My knowledge

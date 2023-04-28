@@ -42,5 +42,5 @@ After 2018, Linux became my main system.
 
 ## Contact me
 
-- Telegram - @bless_48
+- Telegram - @hatred_45
 - Discord - Pierre#1392

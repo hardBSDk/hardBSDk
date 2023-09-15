@@ -42,5 +42,5 @@ After 2018, Linux became my main system.
 
 ## Contact me
 
+- Matrix - @draft_isa
 - Telegram - @hatred_45
-- Discord - Pierre#1392

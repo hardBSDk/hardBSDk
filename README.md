@@ -1,13 +1,11 @@
 # About me
 
-Open source activist and systems researcher focused on simplicity and usability, I try to contribute to open source projects in the way I can while research alternatives for proprietary solutions.
+Open source activist and systems researcher focused on simplicity and usability.
 
 ## Projects
 
 - [Software Bible](https://github.com/hardBSDk/software_bible) - My best software recommendations.
 - [Commands Bible](https://github.com/hardBSDk/commands_bible) - Important Unix/Linux commands to fix common problems.
-- [Scripts](https://github.com/hardBSDk/scripts) - My Unix scripts.
-- [Onion RPG](https://github.com/hardBSDk/onion_edge) - 3D RTS/RPG focused in realism and simplicity.
 
 ## My knowledge
 

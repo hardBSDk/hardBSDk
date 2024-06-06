@@ -4,8 +4,8 @@ Open source activist and systems researcher focused on simplicity and usability.
 
 ## Projects
 
-- [Software Bible](https://github.com/hardBSDk/software_bible) - My best software recommendations.
-- [Commands Bible](https://github.com/hardBSDk/commands_bible) - Important Unix/Linux commands to fix common problems.
+- [Software Bible](https://github.com/hardBSDk/software-bible) - My best software recommendations.
+- [Commands Bible](https://github.com/hardBSDk/commands-bible) - Important Unix/Linux commands to fix common problems.
 
 ## My knowledge
 

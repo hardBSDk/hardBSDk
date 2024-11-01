@@ -7,6 +7,7 @@ I work full-time on [Redox OS](https://redox-os.org) since the half of 2023.
 ## Projects
 
 - [FOSS Supremacy](https://github.com/FOSS-Supremacy) - A project to reimplement great games as open-source and with better mechanics.
+- [Awesome Alternatives](https://github.com/hardBSDk/awesome-alternatives) - A list of free and open-source alternatives for proprietary programs, games, web services and operating systems.
 - [Software Bible](https://github.com/hardBSDk/software-bible) - My best software recommendations.
 - [Commands Bible](https://github.com/hardBSDk/commands-bible) - Important Unix/Linux commands to fix common problems.
 

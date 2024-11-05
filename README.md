@@ -1,6 +1,6 @@
 # About me
 
-Open source activist and systems researcher focused on simplicity and usability.
+Open-source activist and systems researcher focused on simplicity and usability.
 
 I work full-time on [Redox OS](https://redox-os.org) since the half of 2023.
 
